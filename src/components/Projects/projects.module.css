@@ -1,0 +1,162 @@
+.container {
+  min-height: 100vh;
+  padding: 5rem 8rem;
+  background-color: var(--bg);
+  color: var(--text-color);
+  gap: 2rem;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.projectCard {
+  margin-top: 3rem;
+  /* background: var(--bg-gradient); */
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  border-radius: 2rem;
+  border: 1px solid var(--softTextColor);
+  box-shadow: 10px 10px 0 -1px var(--softTextColor);
+}
+
+.image {
+  border-radius: 2rem;
+  object-fit: cover;
+  transition: transform 0.2s;
+}
+
+.image:hover {
+  transform: scale(1.05);
+}
+.projectContent {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.projectTitle {
+  font-size: 1.5rem;
+}
+
+.projectDesc {
+  font-size: 1rem;
+}
+
+.projectDate {
+  font-size: 1rem;
+}
+
+.projectTech {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.tech {
+  padding: 0.5rem;
+  background-color: var(--bg);
+  border-radius: 0.5rem;
+  border: 1px solid var(--softTextColor);
+  box-shadow: 3px 3px 0 -1px var(--softTextColor);
+}
+
+.code {
+  display: flex;
+  gap: 1rem;
+}
+
+.codeLink {
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: var(--text-color);
+  color: var(--bg);
+  border-radius: 0.5rem;
+  border: 1px solid var(--softTextColor);
+  box-shadow: 3px 3px 0 -1px var(--softTextColor);
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  margin-top: 5rem;
+  padding: 1rem 3rem;
+  background-color: var(--text-color);
+  color: var(--bg);
+  font-size: 1.2rem;
+  font-weight: 500;
+  border-radius: 1rem;
+  border: 1px solid var(--softTextColor);
+  box-shadow: 8px 8px 0 -1px var(--softTextColor);
+}
+
+.btn:hover {
+  background-color: var(--bg);
+  color: var(--text-color);
+  transition: all 0.5s ease;
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    padding: 5rem 4rem;
+  }
+
+  .title {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .projectCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .image {
+    width: 350px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .image {
+    width: 100%;
+    height: 200px;
+  }
+
+  .projectDesc {
+    font-size: 0.7rem;
+  }
+
+  .projectDate {
+    font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .container {
+    padding: 5rem 2rem;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+}

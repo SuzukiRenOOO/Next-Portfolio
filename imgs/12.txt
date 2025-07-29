@@ -1,0 +1,9 @@
+https://appbrew.io/
+
+Next.js
+Newt
+React.js
+jamstack
+Amazon Cloudfront
+AmazonS3
+Poppins

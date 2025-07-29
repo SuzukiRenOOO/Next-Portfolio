@@ -1,0 +1,8 @@
+https://www.deandeluca.co.jp/shop/
+
+Magento
+jQuery
+Slick
+Underscore.js
+Eric Meyer's Reset CSS
+Bootstrap

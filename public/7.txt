@@ -1,0 +1,12 @@
+https://yoneshima-shuzo.co.jp/
+
+Shopify
+GSAP
+jQuery
+Iazysizes
+jQuery-UI
+Awiper
+Alata
+Crimson Text
+Zen Old Mincho
+NotoSansJP

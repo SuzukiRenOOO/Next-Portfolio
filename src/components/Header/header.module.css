@@ -1,0 +1,91 @@
+.header {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 1rem;
+  position: absolute;
+  width: 60%;
+  background-color: var(--softBg);
+  border-radius: 2rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.logo {
+  display: none;
+  color: var(--text-color);
+}
+
+.title {
+  font-size: 1.2rem;
+  padding: 0.5rem 1.5rem;
+  border-radius: 1rem;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.title:hover {
+  background-color: var(--text-color);
+  color: var(--bg);
+  transition: all 0.5s ease;
+}
+
+.mobileMenu {
+  display: none;
+}
+
+@media screen and (max-width: 1500px) {
+  .header {
+    gap: 0.5rem;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .header {
+    gap: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 1350px) {
+  .title {
+    padding: 0.5rem 0.9rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .header {
+    justify-content: space-around;
+    align-items: center;
+  }
+  .logo {
+    display: flex;
+  }
+  .navItem {
+    display: none;
+  }
+
+  .mobileMenu {
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .header {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .header {
+    width: 80%;
+  }
+
+  .logo {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .logo {
+    font-size: 1.5rem;
+  }
+}

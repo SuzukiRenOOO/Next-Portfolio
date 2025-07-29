@@ -1,0 +1,9 @@
+https://schick.jp/
+
+Shopify
+jQuery
+Cloudflare
+jsDelivr
+NotoSerifJP
+Playfair Display
+NotoSansJP

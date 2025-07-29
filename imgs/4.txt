@@ -1,0 +1,12 @@
+https://anesis.co.jp/recruit/
+
+WordPress
+Barba.js
+GSAP
+jQuery
+Swiper
+js-cookie
+Pjax
+normalize.css
+Apache
+Lato
