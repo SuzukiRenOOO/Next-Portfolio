@@ -1,7 +1,0 @@
-http://pgdesign.com/
-
-WordPress
-jWuery
-Apache
-MySQL
-PHP

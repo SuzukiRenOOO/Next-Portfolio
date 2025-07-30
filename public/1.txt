@@ -6,3 +6,8 @@ Slick
 Underscore.js
 Eric Meyer's Reset CSS
 Bootstrap
+
+
+Title: DEAN & DELUCA Official Online Store
+Description: This site is the official online store of DEAN & DELUCA, a premium food retailer offering a curated selection of gourmet products, kitchenware, and gifts. It features services like subscription deliveries, in-store pickup, customizable gift sets, and exclusive online items. The website is developed using a custom CMS tailored to support e-commerce functionalities and enhance user experience.
+

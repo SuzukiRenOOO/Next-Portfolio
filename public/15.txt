@@ -7,3 +7,12 @@ jsDelivr
 NotoSerifJP
 Playfair Display
 NotoSansJP
+
+
+Title: Schick Japan Official Site
+Description: This site is the official platform of Schick Japan, a leading company specializing in shaving and skincare products. Schick Japan offers a wide range of products, including razors, shaving gels, and skincare items, catering to both men's and women's grooming needs. The website provides detailed product information, usage tips, and safety guidelines to ensure a comfortable and effective shaving experience.
+
+
+
+タイトル：シック・ジャパン公式サイト
+説明：このサイトは、シェービングとスキンケア製品を専門とするリーディングカンパニー、シック・ジャパンの公式プラットフォームです。シック・ジャパンは、カミソリ、シェービングジェル、スキンケア製品など、男性と女性の両方のグルーミングニーズに応える幅広い製品を提供しています。ウェブサイトでは、快適で効果的なシェービング体験を実現するための詳細な製品情報、使用上のヒント、安全に関するガイドラインを提供しています。

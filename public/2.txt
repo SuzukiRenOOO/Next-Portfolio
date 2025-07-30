@@ -5,3 +5,6 @@ STUDIO
 EB Garamond 
 Lato 
 Roboto
+
+Title: 醤３（ショウスリー）プロジェクト 公式サイト
+Description: This site is the official website of the 醤３（ショウスリー）プロジェクト, a collaborative initiative focused on the development and promotion of a unique soy sauce called "Shoyu3." The project aims to create a soy sauce that embodies the essence of Japanese culinary traditions while incorporating innovative brewing techniques. The website provides information about the project's philosophy, the brewing process, and the team behind Shoyu3. Technical specifics about the frameworks or tools used to build the site are not publicly disclosed.

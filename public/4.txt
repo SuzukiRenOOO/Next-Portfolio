@@ -10,3 +10,8 @@ Pjax
 normalize.css
 Apache
 Lato
+
+
+Title: 株式会社アネシス 採用情報サイト
+
+Description: This site is the official recruitment platform of 株式会社アネシス, a Japanese housing manufacturer based in Kumamoto and Fukuoka. The company specializes in custom-built homes and is actively seeking new talent across various roles, including design, construction, sales, and support functions. The website provides information on job openings, recruitment events, and insights into the company's culture and values. Technical details about the frameworks or tools used to build the site are not publicly disclosed.

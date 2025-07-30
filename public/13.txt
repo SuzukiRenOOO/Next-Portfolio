@@ -5,3 +5,12 @@ flatpickr
 GSAP
 Swiper
 Nginx
+
+
+Title: ROBOTI Official Site
+
+Description: This site is the official platform of ROBOTI, a service by アイグッズ株式会社 (iGoods Co., Ltd.) specializing in the provision of commercial-grade robots for tasks such as food delivery, transportation, and cleaning. They offer a wide range of robots, including models like T9 Pro, BellaBot, and RACLEBO, designed to assist in various industries including hospitality, restaurants, factories, warehouses, offices, and healthcare. The company provides comprehensive support from product selection to installation and maintenance. They also offer rental services and guidance on utilizing subsidies for robot adoption.
+
+
+タイトル：Appbrew公式サイト
+説明：このサイトは、eコマースブランド向けに設計されたノーコードモバイルアプリビルダーであるAppbrewの公式プラットフォームです。企業はコーディングなしで、Shopifyストアをコンバージョン率の高いネイティブiOSおよびAndroidアプリに変換できます。Appbrewは、プッシュ通知、AI駆動型サイズチャート、ロイヤルティプログラムなどの機能を提供し、顧客エンゲージメントを強化し、平均注文額（AVAV）を向上させます。

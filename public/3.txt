@@ -4,3 +4,8 @@ STUDIO
 EB Garamond
 Zen Old Mincho
 Motserrat
+
+
+Title: PLAYLIVING IZU Official Site
+Description: This site is the official website of PLAYLIVING IZU, a private one-villa hotel located in the Izu Peninsula, Japan. It offers a luxurious yet homely experience with amenities like an open-air bath, sauna, and panoramic views of the ocean and mountains. The concept emphasizes deepening relationships in a comfortable setting, blending nature with modern design. The website provides information on accommodations, facilities, and booking options.
+

@@ -7,3 +7,10 @@ jamstack
 Amazon Cloudfront
 AmazonS3
 Poppins
+
+
+Title: Appbrew Official Site
+Description: This site is the official platform of Appbrew, a no-code mobile app builder designed for eCommerce brands. It enables businesses to transform their Shopify stores into high-conversion native iOS and Android apps without any coding. Appbrew offers features like push notifications, AI-driven size charts, and loyalty programs to enhance customer engagement and increase average order value.
+
+タイトル：Appbrew公式サイト
+説明：このサイトは、eコマースブランド向けに設計されたノーコードモバイルアプリビルダーであるAppbrewの公式プラットフォームです。企業はコーディングなしで、Shopifyストアをコンバージョン率の高いネイティブiOSおよびAndroidアプリに変換できます。Appbrewは、プッシュ通知、AI駆動型サイズチャート、ロイヤルティプログラムなどの機能を提供し、顧客エンゲージメントを強化し、平均注文額（AVAV）を向上させます。

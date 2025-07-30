@@ -7,3 +7,13 @@ GSAP
 microCMS
 GTM
 Amazon Web Services
+
+
+Title: ナイル株式会社 (Nyle Inc.) Official Site
+
+Description: This site is the official platform of ナイル株式会社 (Nyle Inc.), a Japanese company specializing in digital transformation (DX) and marketing services. They offer SEO consulting, content creation, data analysis, and AI-driven solutions to help businesses enhance their online presence. Nyle also operates media platforms like Appliv, a popular app discovery site, and provides automotive industry DX solutions, including car subscription services.
+
+
+タイトル：ナイル株式会社（Nyle Inc.）公式サイト
+
+説明：このサイトは、デジタルトランスフォーメーション（DX）とマーケティングサービスを専門とする日本企業、ナイル株式会社（Nyle Inc.）の公式プラットフォームです。SEOコンサルティング、コンテンツ制作、データ分析、AIを活用したソリューションを提供し、企業のオンラインプレゼンス向上を支援しています。また、人気アプリ検索サイト「Appliv」などのメディアプラットフォームの運営や、自動車サブスクリプションサービスを含む自動車業界向けDXソリューションの提供も行っています。

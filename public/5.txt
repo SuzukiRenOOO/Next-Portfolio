@@ -4,3 +4,6 @@ STUDO
 Inter
 NotoSansJP
 
+Title: 株式会社renue Official Site
+
+Description: This site is the official website of 株式会社renue, a Japanese consulting firm specializing in AI-driven business transformation. The company focuses on redefining consulting by automating traditional tasks like report creation and regular meetings, allowing consultants to concentrate on value creation. Their services include new business development, AI product development, project management, IT due diligence, and AI personnel training. The website provides information on their services, company philosophy, team members, and recruitment opportunities. Technical details about the frameworks or tools used to build the site are not publicly disclosed.

@@ -10,3 +10,6 @@ Alata
 Crimson Text
 Zen Old Mincho
 NotoSansJP
+
+Title: 米島酒造株式会社 公式サイト
+Description: This site is the official website of 米島酒造株式会社, a traditional Okinawan distillery established in 1948. Located on Kume Island, the company specializes in handcrafted awamori (琉球泡盛), a type of Okinawan distilled spirit. They emphasize small-batch production, using local soft water and traditional methods to create rich, mellow flavors. The website offers information on their history, production process, product lineup, and an online store. Technical specifics about the frameworks or tools used to build the site are not publicly disclosed.
