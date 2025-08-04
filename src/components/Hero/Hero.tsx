@@ -8,13 +8,13 @@ import { FiGithub, FiLinkedin } from "react-icons/fi";
 const Hero = () => {
   return (
     <div className={styles.container}>
-      <Image
+      {/* <Image
         className={styles.image}
         src={heroItem.image_url}
         height={100}
         width={100}
         alt=""
-      />
+      /> */}
 
       <p className={styles.desc}>
         こんにちは、私はSasada Yosukeです。 私は 8 年の経験を持つソフトウェア エンジニアです。 私はサイトやアプリの構築が好きで、Next.js と TypeScript に重点を置いています。
